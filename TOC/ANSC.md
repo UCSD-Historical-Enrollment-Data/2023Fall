@@ -1,0 +1,13 @@
+# ANSC
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| ANSC 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ANSC%20100.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ANSC%20100.png) |  |
+| ANSC 121 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ANSC%20121.csv) |  |
+| ANSC 124 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ANSC%20124.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ANSC%20124.png) |  |
+| ANSC 134 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ANSC%20134.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ANSC%20134.png) |  |
+| ANSC 148 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ANSC%20148.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ANSC%20148.png) |  |
+| ANSC 164 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ANSC%20164.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ANSC%20164.png) |  |
+| ANSC 169 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ANSC%20169.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ANSC%20169.png) |  |
+| ANSC 190 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ANSC%20190.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ANSC%20190.png) |  |
+| ANSC 193 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ANSC%20193.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ANSC%20193.png) |  |

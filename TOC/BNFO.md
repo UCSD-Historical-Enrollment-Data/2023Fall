@@ -1,0 +1,7 @@
+# BNFO
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| BNFO 281 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/BNFO%20281.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/BNFO%20281.png) |  |
+| BNFO 283 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/BNFO%20283.csv) |  |
+| BNFO 294 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/BNFO%20294.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/BNFO%20294.png) |  |

@@ -1,0 +1,7 @@
+# ERC
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| ERC 1 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ERC%201.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ERC%201.png) |  |
+| ERC 2 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ERC%202.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ERC%202.png) |  |
+| ERC 20 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/ERC%2020.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/ERC%2020.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/section/ERC%2020_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_section/ERC%2020_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/section/ERC%2020_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_section/ERC%2020_B.png) |

@@ -1,0 +1,9 @@
+# BICD
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| BICD 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/BICD%20100.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/BICD%20100.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/section/BICD%20100_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_section/BICD%20100_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/section/BICD%20100_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_section/BICD%20100_B.png)<br>Section C: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/section/BICD%20100_C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_section/BICD%20100_C.png) |
+| BICD 110 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/BICD%20110.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/BICD%20110.png) |  |
+| BICD 130 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/BICD%20130.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/BICD%20130.png) |  |
+| BICD 140 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/BICD%20140.csv) |  |
+| BICD 156 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/BICD%20156.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/BICD%20156.png) |  |
