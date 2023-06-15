@@ -2,7 +2,7 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| CGS 100A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/CGS%20100A.csv), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall_wide/CGS%20100A.png) |  |
+| CGS 100A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/CGS%20100A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/CGS%20100A.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall_wide/CGS%20100A.png) |  |
 | CGS 106 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/CGS%20106.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/CGS%20106.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall_wide/CGS%20106.png) |  |
 | CGS 109 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/CGS%20109.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/CGS%20109.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall_wide/CGS%20109.png) |  |
 | CGS 110 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/CGS%20110.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/CGS%20110.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall_wide/CGS%20110.png) |  |
