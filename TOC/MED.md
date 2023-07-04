@@ -2,6 +2,7 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
+| MED 228 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/MED%20228.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/MED%20228.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall_wide/MED%20228.png) |  |
 | MED 232 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/MED%20232.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/MED%20232.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall_wide/MED%20232.png) |  |
 | MED 233 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/MED%20233.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/MED%20233.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall_wide/MED%20233.png) |  |
 | MED 239 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Fall/blob/main/overall/MED%20239.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall/MED%20239.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Fall/main/plot_overall_wide/MED%20239.png) |  |
